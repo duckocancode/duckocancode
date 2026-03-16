@@ -1,85 +1,56 @@
-# Hi, I'm Ducko 🦆
+# Hi, I'm Ducko
 
-**Master of Orchestration** — I design the systems, I direct the execution. They say you can just do things, so I'm finding out if that's true.
-
----
-
-## 🚀 Projects
-
-### 🌌 [canchi](https://canchi.vercel.app) — Tử Vi Đẩu Số Chart Generator
-
-> Vietnamese astrology engine built from scratch. No lookup tables — all dates computed from real orbital mechanics.
-
-- 12 cung, 100+ stars, interactive Tam Phương Tứ Chính highlight on hover
-- Đại Hạn / Tiểu Hạn timeline navigation
-- Astronomical algorithms: Jean Meeus, Reingold & Dershowitz, Vietnamese UTC+7 / 105°E meridian rules
-- Export chart to PNG or JSON
-- Built in TypeScript + React → ported to Vue 3 for [vibe.j2team.org/canchi](https://vibe.j2team.org/canchi)
+I'm a Product Designer working across systems, products, and experiences. I also build the things I design.
 
 ---
 
-### 🧩 [blockfit](https://vibe.j2team.org/blockfit) — Block Puzzle Game
+## Projects
 
-> Drag-and-drop block puzzle. Drop pieces into a grid, rotate 90°, don't run out of time.
+### [canchi](https://vibe.j2team.org/canchi) — Tử Vi Đẩu Số Chart Generator
 
-- 4 difficulty levels × 3 color modes (1 / 2 / 3 colors) + Free mode
-- Seeded PRNG levels so every session is reproducible
-- Web Audio API sound engine — no audio files, all synthesized
-- Full mobile support: distinguishes swipe from drag, horizontal palette scroll
-- Win streak & high score tracking per mode via localStorage
+Vietnamese astrology chart engine — 12 cung, 100+ stars, computed from real orbital mechanics with no lookup tables. Export to PNG or JSON.
 
 ---
 
-### 🕰️ [tick](https://vibe.j2team.org/tick) — Multi-Function Clock
+### [blockfit](https://vibe.j2team.org/blockfit) — Block Puzzle Game
 
-> One app, five clocks.
-
-| Mode | Highlights |
-|---|---|
-| Clock | Digital · Analog · Flip · Minimal styles |
-| Stopwatch | Lap recording with split times |
-| Countdown | Sound alert on finish |
-| Pomodoro | 25/5 min with session counter |
-| World Clock | 16 cities + custom timezone picker |
+Drag-and-drop block puzzle with 4 difficulty levels, seeded PRNG levels, synthesized Web Audio, and full mobile touch support.
 
 ---
 
-### 💥 [screen-destroyer](https://vibe.j2team.org/screen-destroyer) — Fake Screen Wrecker
+### [tick](https://vibe.j2team.org/tick) — Multi-Function Clock
 
-> 5 tools of destruction for your (fake) screen.
-
-- 🔨 Hammer — SVG crack patterns that spread on impact
-- 🔫 Gun — bullet hole overlays
-- 🔥 Flamethrower — CSS fire effects
-- 🦠 Virus — fake Windows XP popups that can't be closed (except by Diệt Virus)
-- 🤖 Auto Spam — unleashes viruses automatically
+Five modes in one: clock (4 display styles), stopwatch with laps, countdown, Pomodoro, and world clock across 16 cities.
 
 ---
 
-### 🔬 [periodic-table](https://vibe.j2team.org/periodic-table) — Interactive Periodic Table
+### [screen-destroyer](https://vibe.j2team.org/screen-destroyer) — Fake Screen Wrecker
 
-> A fully interactive periodic table of elements. Click any element, get the details.
-
----
-
-### 📊 [fps-check](https://vibe.j2team.org/fps-check) — Browser FPS Checker
-
-> Instant browser frame rate checker. Open it, see your FPS.
+Simulate screen destruction with 5 tools: hammer cracks, bullet holes, flamethrower, fake Windows XP virus popups, and auto-spam mode.
 
 ---
 
-## ⚡ Tech Stack
+### [periodic-table](https://vibe.j2team.org/periodic-table) — Interactive Periodic Table
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-42B883?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+Click any element to explore its properties — fully interactive, clean layout.
 
 ---
 
-## 📈 Stats
+### [fps-check](https://vibe.j2team.org/fps-check) — Browser FPS Checker
+
+Instant real-time frame rate monitor for your browser.
+
+---
+
+### [sos-racedata](https://sos-racedata.vercel.app) — SUM GT3 Open Series Season 2 *(unofficial)*
+
+Full league website, design system and race data for a GT3 sim racing series.
+
+---
+
+*...and many more in progress.*
+
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duckocancode&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
