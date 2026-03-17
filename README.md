@@ -10,6 +10,7 @@ I'm a Product Designer working across systems, products, and experiences. I also
 - **[screen-destroyer](https://vibe.j2team.org/screen-destroyer)** — Fake screen destruction simulator.
 - **[periodic-table](https://vibe.j2team.org/periodic-table)** — Interactive periodic table of elements.
 - **[fps-check](https://vibe.j2team.org/fps-check)** — Browser frame rate checker.
+- **[contributor-cards](https://vibe.j2team.org/contributor-cards)** — Gacha trading card game based on real GitHub contributor data.
 - **[sos-racedata](https://sos-racedata.vercel.app)** — League website and race data pipeline for a GT3 sim racing series. *(unofficial)*
 
 ...and many more in progress.
