@@ -12,6 +12,8 @@ I'm a Product Designer working across systems, products, and experiences. I also
 - **[fps-check](https://vibe.j2team.org/fps-check)** — Browser frame rate checker.
 - **[contributor-cards](https://vibe.j2team.org/contributor-cards)** — Gacha trading card game based on J2TEAM GitHub contributor data.
 - **[vuon-uom](https://vibe.j2team.org/vuon-uom)** — A light card strategy game — nurture a fantasy world over 50 turns (50 years).
+- **[mesh-gradient](https://vibe.j2team.org/mesh-gradient)** — Figma-style mesh gradient generator — drag blobs, export CSS, PNG, and animated WebM.
+- **[fire-calculator](https://vibe.j2team.org/fire-calculator)** — Calculate years to financial independence using the FIRE method, tuned for Vietnam.
 - **[MobilWheel iOS](https://mobilwheel.com)** — iOS client that turns your iPhone into a steering wheel for PC racing simulators.
 - **[sos-racedata](https://sos-racedata.vercel.app)** — League website and race data pipeline for a GT3 sim racing series. *(unofficial)*
 
